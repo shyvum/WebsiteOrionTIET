@@ -1,5 +1,5 @@
 # WebsiteOrionTIET
-This repository is intellectual property of Shivam Goyal and is made for Orion'19 - Thapar Institute's Tech Fest.
+This repository is made for Orion'19 - Thapar Institute's Tech Fest.
 
 ## Tech Stack
 1. HTML
@@ -7,4 +7,4 @@ This repository is intellectual property of Shivam Goyal and is made for Orion'1
 3. JavaScript
 
 ## Complementary App
-Orion Android App is available [here](https://github.com/ShivamGoyal1899/AppOrionTIET/releases/download/v1.0.0/Orion.v1.0.0.apk) to download.
+Orion Android App is available [here](https://github.com/shyvum/in.shyvum.thapar.orion/releases) to download.
